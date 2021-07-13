@@ -1,0 +1,2 @@
+reference facture  : 64868 
+date facture : Sun Jan 10 23:06:37 2021  Les Commandes : (((('', 'cost_of_Escalope_grie', 16.6), 'cost_of_Suplement', 3.3), 'cost_of_Water', 2000.0), 'cost_of_Salad', 9700.0)
