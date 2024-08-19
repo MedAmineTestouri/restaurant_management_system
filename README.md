@@ -19,7 +19,7 @@ To install Tkinter on Windows, use `pip`:
 
 ```bash
 pip install tk
-
+```
 #### For Linux (Ubuntu)
 
 To install Tkinter on Linux :
@@ -27,4 +27,4 @@ To install Tkinter on Linux :
 ```bash
 sudo apt update
 sudo apt install python3-tk
-
+```
